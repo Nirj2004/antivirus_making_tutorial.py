@@ -11,7 +11,7 @@
 # return value of `cmd`. That said, we're not using `set -e`, so we aren't
 # really concerned about return values. The following `true`, applies the
 # rule to the entire file.
-# See: https://github.com/koalaman/shellcheck/wiki/SC2155
+# See: https://github.com/Nirj2004/antivirus_making_tutorial.py/
 # shellcheck disable=SC2155
 true
 required_vars=()

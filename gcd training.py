@@ -40,78 +40,8 @@ var = name.replace("ar", "t")
 var = name.replace(", ", '\n')
 print(var)
 
-stri = "this is a "
+str = "this is a "
 name = "joke"
 stri2 = "this is not a "
-print(stri + name)
+print(str + name)
 print(stri2 + name)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
